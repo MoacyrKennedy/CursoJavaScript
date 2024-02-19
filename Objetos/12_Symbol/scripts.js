@@ -25,3 +25,5 @@ console.log(labrador.raca);
 
 //Acessando symbol
 console.log(Cachorro.prototype[patas]);
+
+console.log(labrador[patas]);
